@@ -1,5 +1,5 @@
-# Sistema-de-Login-PHP
-# Login and Registration Project
+
+# Login and Registration Project in PHP
 
 ## Description
 This PHP project demonstrates a simple login and registration system using PDO for interaction with a MySQL database. It includes pages for login, registration, password reset, and a welcome page after successful login.
