@@ -30,5 +30,5 @@ This PHP project demonstrates a simple login and registration system using PDO f
 - These are basic codes and can be expanded based on project requirements.
 
 ### Author
-Luiz Felipe Frois Neves - 2023 &copy
+Luiz Felipe Frois Neves - 2023 
 
